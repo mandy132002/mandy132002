@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mandy132002
 - 👀 I’m interested in making cool apps which would solve realworld problems.
-- 🌱 I’m currently learning Android development.
-- 💞️ I’m looking to collaborate on making android applications.
+- 🌱 I’m currently learning Web development.
+- 💞️ I’m looking to collaborate on making projects.
 - 📫 How to reach me 
 Twitter => @_MandyCandy_13 
 
